@@ -14,5 +14,7 @@ ellipse(x+10,y,20,20);
 ellipse(x,y+10,20,20);
 ellipse(x-10,y,20,20);
 ellipse(x,y-10,20,20);
+fill(255,0,0);
+triangle(x+20,y,x+30,y+30,x+10,y+30);
 }
 
